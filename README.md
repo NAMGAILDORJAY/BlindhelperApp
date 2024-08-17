@@ -1,1 +1,1 @@
-# BlindhelperApp
+Currency detection 
